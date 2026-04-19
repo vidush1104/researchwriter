@@ -51,7 +51,7 @@ agentic_ai_crew/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/agentic_ai_crew.git
+git clone https://github.com/vidush1104/researchwriter.git
 cd agentic_ai_crew
 ```
 
