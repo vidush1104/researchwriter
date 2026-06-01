@@ -149,4 +149,4 @@ new-blog-post.md
 
 ## Author
 
-Built by **Asish** - learning agentic AI one crew at a time.
+Built by **Vidush** - learning agentic AI one crew at a time.
